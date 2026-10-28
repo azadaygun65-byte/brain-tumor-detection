@@ -1,0 +1,16 @@
+# ==============================================================================
+# 🧠 BRAIN TUMOR DETECTION - PRE-TRAINED MODEL WEIGHTS 
+# ==============================================================================
+# Framework       : TensorFlow / Keras (v2.9.1)
+# Architecture    : Sequential CNN 
+# Train Accuracy  : %99.50
+# Test Accuracy   : %88.24
+# ==============================================================================
+# BİLGİLENDİRME: 
+# Gerçek 'model.h5' (ağırlık) dosyası, GitHub'ın standart dosya boyutu 
+# limitlerini aştığı için bu depoya doğrudan yüklenmemiştir. 
+#
+# Modeli kendi lokalinizde sıfırdan eğitmek ve ağırlıkları yeniden 
+# üretmek için projedeki (brain-tumor-detection.ipynb) dosyasını 
+# çalıştırabilirsiniz.
+# ==============================================================================
